@@ -1,0 +1,5 @@
+---
+applications: 
+- name: spring-boot-demo
+  memory: 256M
+  path: target/stackato-spring-boot-demo.jar
